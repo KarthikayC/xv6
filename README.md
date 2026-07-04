@@ -179,7 +179,7 @@ Gemini was used to help understand the exact working of an MLFQ scheduler and xv
 
 # OS Assignment - 3
 
-Author: Karthikay Chandana (CS24BTECH11033) 
+Author: Karthikay Chandana (CS24BTECH11033)  
 Date: 3rd April
 
 
@@ -372,7 +372,7 @@ Gemini was used to help understand the exact working of paging and xv6 source co
 
 # OS Assignment - 4
 
-Author: Karthikay Chandana (CS24BTECH11033) 
+Author: Karthikay Chandana (CS24BTECH11033)  
 Date: 23rd April
 
 
